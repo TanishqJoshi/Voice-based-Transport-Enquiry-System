@@ -1,20 +1,18 @@
-# VoiceEnquiry
-![alt text](https://robohash.org/1?200x200)
+Voice Enquiry System
+Voice Enquiry System is a web app for submitting voice inquiries and receiving responses from an integrated database. Built with React.js (front-end), Node.js, Express.js (back-end), and MySQL (database).
+Getting Started
 
-Project done as part of CSE302 DBMS Course
+Fork and clone the repository.
+Install dependencies for front-end and back-end.
+Set up the MySQL database and execute SQL commands from Database.txt.
+Start the server and React.js development server.
 
-Stack Used:
-* REACT JS + Node JS + MySQL + Express JS
+Technologies Used
 
-React JS is available in VoiceEnquirySystem folder
-Node JS is available in VoiceEnquiryBackEnd folder
+React.js
+Node.js
+Express.js
+MySQL
 
-To run the app,
- Fork it. Install the npm modules using npm install . 
- 
- 
-In server.js file, edit the connection details of your host Database and execute commands in Database.txt. Now you are ready to go.
-
-Type node server.js to run the server in default port: 3000
-
-Happy Hacking!
+Contributing
+Contributions are welcome! Open an issue or submit a pull request.
